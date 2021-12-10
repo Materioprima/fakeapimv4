@@ -1,0 +1,55 @@
+{
+    "usuarios":[
+        {
+            "idUsuario": 1,
+            "email": "mateoburbano@mail.com",
+            "nombre": "mateo",
+            "apellidos": "burbano",
+            "activo": true,
+            "fechaCreacion": "2016-01-04 10:34:23",
+            "fechaActivacion": "2016-01-04 10:34:23",
+            "fechaCaducidadPassword": "2025-01-04 10:34:23",
+            "passwords": "holaquetal",
+            "passwordActual": "password",
+            "fechaUltimoAcceso": "2021-01-04 10:34:23",
+            "federado": true,
+            "fechaAnteriorUltimoAcceso": "nada",
+            "configFront": "front"
+        }
+    ],
+    "tareas": [ 
+        {
+            "idTarea": 1,
+            "nombre": "ads",
+            "descripcion": "saa",
+            "fechaInicio": "2016-01-04 10:34:23",
+            "fechaFin": "2021-01-04 10:34:23",
+            "porcentaje": 1,
+            "tareaIdPadre": 1,
+            "idEstado": 1,
+            "idTareaResponsable": 1,
+            "idPrioridad": "ALTA",
+            "idOrigen": 1,
+            "planificada": false,
+            "fechaCreacion": "2016-01-04 10:34:23",
+            "usuarioCreacion": {
+                "idUsuario": 1,
+                "email": "mateoburbano@mail.com",
+                "nombre": "mateo",
+                "apellidos": "burbano",
+                "activo": true,
+                "fechaCreacion": "2016-01-04 10:34:23",
+                "fechaActivacion": "2016-01-04 10:34:23",
+                "fechaCaducidadPassword": "2025-01-04 10:34:23",
+                "passwords": "holaquetal",
+                "passwordActual": "password",
+                "fechaUltimoAcceso": "2021-01-04 10:34:23",
+                "federado": true,
+                "fechaAnteriorUltimoAcceso": "nada",
+                "configFront": "front"
+            },
+            "relacionesPrincipales": [],
+            "relacionesSecundarias": []
+        }
+    ]
+}
